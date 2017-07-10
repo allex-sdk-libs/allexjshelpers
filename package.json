@@ -1,0 +1,30 @@
+{
+  "name": "allex_allexjshelperssdklib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for AllexJS helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdklibs/allexjshelpers.git"
+  },
+  "dependencies": {
+    "allex_configrootserverruntimelib": "1.x",
+    "allex_nodehelpersserverruntimelib": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "AllexJS",
+    "helpers",
+    "sdk",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdklibs/allexjshelpers/issues"
+  },
+  "homepage": "https://github.com/sdklibs/allexjshelpers#readme"
+}
